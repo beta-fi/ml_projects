@@ -38,13 +38,15 @@ machine learning and quantum systems.
 
 \- \*\*Languages\*\* — Python
 
-\- \*\*ML Libraries\*\* — Scikit-learn, SciPy
+\- \*\*ML Libraries\*\* — Scikit-learn, SciPy,pytorch
 
 \- \*\*Data Processing\*\* — NumPy, Pandas
 
 \- \*\*Visualization\*\* — Matplotlib
 
 \- \*\*Version Control\*\* — Git, GitHub
+
+
 
 \## Algorithms
 
